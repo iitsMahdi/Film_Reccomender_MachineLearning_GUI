@@ -24,6 +24,6 @@ nltk(Natural Language Toolkit) et Pandas.
 Concentrons-nous sur la fourniture d’un système de recommandation de base en
 suggérant des éléments qui ressemblent le plus à un élément particulier, dans ce
 cas, des films. Il indique simplement quels films/éléments sont les plus similaires au
-choix de film de l’utilisateur avec un GUI.!
-[1](https://user-images.githubusercontent.com/81876280/209452600-fcb8e615-3c1b-49b6-ab17-ad0815cd6a5e.png)
-![2](https://user-images.githubusercontent.com/81876280/209452602-feeacb2e-194d-41b3-aedd-81c0743786fa.png)
+choix de film de l’utilisateur avec un GUI.
+
+![1](https://user-images.githubusercontent.com/81876280/209452600-fcb8e615-3c1b-49b6-ab17-ad0815cd6a5e.png)![2](https://user-images.githubusercontent.com/81876280/209452602-feeacb2e-194d-41b3-aedd-81c0743786fa.png)
